@@ -1,0 +1,9 @@
+# System files
+.vscode
+.ipynb_checkpoints
+
+# Testing files
+test.ipynb
+
+# Output files
+*.csv
